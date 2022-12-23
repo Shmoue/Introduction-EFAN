@@ -8,3 +8,4 @@
     
  Pour pouvoir tester ce code, vous pouver ouvrir ce dosier dans l'utilitaire Matlab, en ligne ou desktop.
  executer dans la console la commande : mex efan_mex.cpp pour compiler le code cpp
+ puis executer demo.m.
